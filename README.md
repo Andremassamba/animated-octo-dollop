@@ -22,6 +22,7 @@
 ![Python](https://img.shields.io/badge/-Python-1f1f1f?style=flat&logo=python)
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-1f1f1f?style=flat&logo=kalilinux)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-1f1f1f?style=flat&logo=metasploit)
+![Nmap](https://img.shields.io/badge/-Nmap-1f1f1f?style=flat&logo=gnupg&logoColor=white)
 ![Nessus](https://img.shields.io/badge/-Nessus-1f1f1f?style=flat&logo=tenable)
 
 ---

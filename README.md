@@ -1,6 +1,6 @@
 <h1 align="center">👋🏽 Olá, eu sou o Top Massamba</h1>
 
-<p align="center">🔧 Pentester | 👨🏾‍💻 Automação com Shell, PowerShell e C | 🤖 Explorando Machine Learning para hacking</p>
+<p align="center">🔧 Pentester | 👨🏾‍💻 Automação com Shell, Python, PowerShell e C | 🤖 Explorando Machine Learning</p>
 
 ---
 
@@ -8,9 +8,9 @@
 
 - 🛠️ Trabalho com automações e segurança ofensiva
 - 🧪 Buscando me tornar um **Pentester Profissional**
-- 🔍 Explorando técnicas de **machine learning aplicadas ao hacking**
+- 🔍 Explorando técnicas de **machine learning**
 - 💭 Frase reflexiva:
-> *"Se os buracos negros irradiam partículas... por que não hackers irradiando informações do horizonte de eventos dos sistemas?"*
+> *"A máquina aprende, mas o hacker compreende."*
 
 ---
 

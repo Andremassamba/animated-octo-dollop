@@ -1,6 +1,6 @@
 <h1 align="center">👋🏽 Olá, eu sou o Top Massamba</h1>
 
-<p align="center">🔧 Pentester | 👨🏾‍💻 Automação com Shell, Python, PowerShell e C | 🤖 Explorando Machine Learning</p>
+<p align="center">🔧 Pentester | 👨🏾‍💻 Automação com Shell, PowerShell e C | 🤖 Explorando Machine Learning para hacking</p>
 
 ---
 
@@ -8,9 +8,9 @@
 
 - 🛠️ Trabalho com automações e segurança ofensiva
 - 🧪 Buscando me tornar um **Pentester Profissional**
-- 🔍 Explorando técnicas de **machine learning**
-- 💭 Frase reflexiva:
-> *"A máquina aprende, mas o hacker compreende."*
+- 🔍 Explorando técnicas de **machine learning aplicadas ao hacking**
+- 💭 Frase favorita:
+> *“A máquina aprende, mas o hacker compreende.”*
 
 ---
 
@@ -35,6 +35,18 @@
 
 ---
 
+### 🌐 Contato
+
+📧 Email: **msss@gmail.com**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com)  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me)
+
+> *(Atualize os links com os seus reais)*
+
+---
+
 ### 🎯 Objetivos
 
 - 📌 Evoluir como pentester ofensivo com foco em IA
@@ -48,9 +60,3 @@
 <p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Hacking GIF"/>
 </p>
-
----
-
-<!-- Futuro espaço para contatos -->
-<!-- 📫 Entre em contato: (em construção...) -->
-

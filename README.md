@@ -1,6 +1,6 @@
-<h1 align="center">👋🏽 Olá, eu sou o Top Massamba</h1>
+<h1 align="center">🧐 Olá, eu sou o Top Massamba</h1>
 
-<p align="center">🔧 Pentester | 👨🏾‍💻 Automação com Shell, PowerShell e C | 🤖 Explorando Machine Learning para hacking</p>
+<p align="center">🔧 Pentester | 👨🏾‍💻 Automação com Shell, Python,PowerShell e C | 🤖 Explorando Machine Learning</p>
 
 ---
 
@@ -8,7 +8,7 @@
 
 - 🛠️ Trabalho com automações e segurança ofensiva
 - 🧪 Buscando me tornar um **Pentester Profissional**
-- 🔍 Explorando técnicas de **machine learning aplicadas ao hacking**
+- 🔍 Explorando técnicas de **machine learning aplicada - atumação**
 - 💭 Frase favorita:
 > *“A máquina aprende, mas o hacker compreende.”*
 
@@ -49,13 +49,13 @@
 
 ### 🎯 Objetivos
 
-- 📌 Evoluir como pentester ofensivo com foco em IA
+- 📌 Evoluir como pentester ofensivo
 - ⚙️ Automatizar processos complexos de varredura e exploração
 - 🧠 Aprender, compartilhar e ensinar
 
 ---
 
-### 🔥 Hacker Mood
+### 🔥 Mood: Ative
 
 <p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Hacking GIF"/>

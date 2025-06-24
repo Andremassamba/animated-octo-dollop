@@ -56,8 +56,8 @@
 
 ---
 
-### 🔥 Mood: Ative
+### 🔥 Hacker Mood
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Hacking GIF"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Cybersecurity GIF"/>
 </p>

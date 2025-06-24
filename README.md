@@ -1,6 +1,6 @@
 <h1 align="center">🧐 Olá, eu sou o Top Massamba</h1>
 
-<p align="center">🔧 Pentester | 👨🏾‍💻 Automação com Shell, Python,PowerShell e C | 🤖 Explorando Machine Learning</p>
+<p align="center">🔧 Pentester | 👨🏾‍💻 Automação com Shell, Python, PowerShell e C | 🤖 Explorando Machine Learning</p>
 
 ---
 

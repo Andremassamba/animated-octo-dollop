@@ -10,7 +10,7 @@
 - 🧪 Buscando me tornar um **Pentester Profissional**
 - 🔍 Explorando técnicas de **machine learning aplicada - atumação**
 - 💭 Frase favorita:
-> *“A máquina aprende, mas o hacker compreende.”*
+> *“A máquina aprende, mas a pessoa compreende.”*
 
 ---
 
